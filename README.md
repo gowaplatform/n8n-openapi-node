@@ -68,6 +68,8 @@ yarn add @gowaplatform/n8n-openapi-node
 
 ## Usage
 
+Get [openapi.json](openapi.json)
+
 1. Add your `openapi.json` to `src/{NodeName}` folder
    (use **OpenAPI v3** and **json**, see [FAQ](#faq) if you don't have it)
 
@@ -342,13 +344,11 @@ Find real example in [@gowaplatform/n8n-nodes-gowapi](https://github.com/gowapla
 
 Here's n8n community nodes generated from OpenAPI specifications you can use for reference:
 
-- [@gowaplatform/n8n-nodes-petstore](https://github.com/gowaplatform/n8n-nodes-petstore) - Petstore example generated from
-  [Petstore openapi.json](https://github.com/OAI/OpenAPI-Specification/blob/main/examples/v3.0/petstore.yaml)
 - [@gowaplatform/n8n-nodes-chatwoot](https://github.com/gowaplatform/n8n-nodes-chatwoot) - ChatWoot n8n community node
   from
   [https://www.chatwoot.com/developers/api/](https://www.chatwoot.com/developers/api/). Defines credentials as well (
   manually)
-- [@gowaplatform/n8n-nodes-gowapi](https://github.com/gowaplatform/n8n-nodes-gowapi) - **GoWAPI** - Self-hosted **WhatsApp HTTP
+- [@gowaplatform/n8n-nodes-gowapi](https://github.com/gowaplatform/n8n-nodes-gowapi) - **GoWAPI** - Our hosted **WhatsApp HTTP
   API**
 
 # FAQ
