@@ -1,6 +1,7 @@
 # @gowaplatform/n8n-openapi-node
 
 
+![GoWAPI logo](GoWAPI+n8n.png)
 ![openapi logo](openapi.png)
 ![n8n logo](n8n.png)
 
